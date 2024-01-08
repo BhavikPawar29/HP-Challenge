@@ -23,3 +23,8 @@ The dataset used for training and testing the models is available in the `data_c
 ```bash
 git clone https://github.com/KeithGalli/Unlocked_Challenge_4.git
 cd Unlocked_Challenge_4
+```
+### Install the required packages:
+bash
+Copy code
+pip install -r requirements.txt
