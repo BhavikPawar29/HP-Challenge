@@ -21,7 +21,7 @@ The dataset used for training and testing the models is available in the `data_c
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/KeithGalli/Unlocked_Challenge_4.git
+git clone https://github.com/BhavikPawar29/HP-Challenge.git
 cd Unlocked_Challenge_4
 ```
 ### Install the required packages:
