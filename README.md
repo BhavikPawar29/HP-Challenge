@@ -12,7 +12,7 @@ This project focuses on solving a real-world computer vision problem using Pytho
 The dataset used for training and testing the models is available in the `data_cleaned/Train` directory. It includes images of "La Eterna" flowers and other types of flowers.
 ## Code Structure
 
-- `flower_classification.ipynb`: Jupyter Notebook with code for building and training the CNN models.
+- `Challenge-Final.ipynb`: Jupyter Notebook with code for building and training the CNN models.
 - `requirements.txt`: Required Python packages. Install them using `pip install -r requirements.txt`.
 
 ## Acknowledgements
