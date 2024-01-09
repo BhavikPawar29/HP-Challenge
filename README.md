@@ -15,6 +15,12 @@ The dataset used for training and testing the models is available in the `data_c
 - `flower_classification.ipynb`: Jupyter Notebook with code for building and training the CNN models.
 - `requirements.txt`: Required Python packages. Install them using `pip install -r requirements.txt`.
 
+## Acknowledgements
+Special thanks to Keith Galli for providing guidance and inspiration through his YouTube video, which served as a valuable resource for implementing this project.
+
+Here's the link:
+https://youtu.be/l-NAT4H4384?si=yWmIdzVnYeAmewmU
+
 ## Usage
 
 1. Clone this repository:
@@ -27,3 +33,6 @@ cd Unlocked_Challenge_4
 bash
 Copy code
 pip install -r requirements.txt
+
+## Author 
+Bhavik D.Pawar
